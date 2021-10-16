@@ -34,5 +34,11 @@
     "description": "Hema is a master's student in Software Engineering with specialization in Cloud Computing and virtualization at San Jose State University. She is passionate about solving high impact problems using data and has a strong background in Software Development, Virtualization, and Cloud Computing.",
     "imgPath": "hema_mutyala.jpg",
     "profileLink": "https://www.linkedin.com/in/hema-prasanthi/"
+  },
+  {
+    "name": "Areman Hashemi",
+    "description": "De Anza Alumni transferred to UCSC, where he recently graduated with highest honors with a B.S. in Computer Science. Areman currently works at Veeva Systems where he is an Associate Software Engineer. He enjoys practicing leet code and hanging out with his wife and dog at the park.",
+    "imgPath": "areman_hashemi.jpg",
+    "profileLink": "https://www.linkedin.com/in/areman-hashemi/"
   }
 ]

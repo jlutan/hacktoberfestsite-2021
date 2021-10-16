@@ -1,6 +1,16 @@
 [
   {
-    "day": "Saturday",
+    "day": "Sunday 10/17",
+    "events": [
+      {
+        "name": "GitHub for Open Source Contributions",
+        "host": "Areman Hashemi",
+        "timeBlock": "6:30pm - 7:30pm"
+      }
+    ]
+  },
+  {
+    "day": "Saturday 10/23",
     "events": [
       {
         "name": "Welcome Session",
@@ -18,14 +28,19 @@
         "timeBlock": "11:00am - 12:00pm"
       },
       {
-        "name": "Code Race (Competitive Round)",
-        "host": "Competitive Programming Club",
-        "timeBlock": "3:00pm - 6:00pm"
+        "name": "TBA",
+        "host": "Tal Globus",
+        "timeBlock": "1:00pm - 2:00pm"
+      },
+      {
+        "name": "Importance of Open Source Contributions",
+        "host": "Hema Mutyala",
+        "timeBlock": "3:00pm - 4:00pm"
       }
     ]
   },
   {
-    "day": "Sunday",
+    "day": "Sunday 10/24",
     "events": [
       {
         "name": "AI and the Future of Work",
@@ -38,9 +53,14 @@
         "timeBlock": "TBA"
       },
       {
+        "name": "Code Race (Competitive Round)",
+        "host": "Competitive Programming Club",
+        "timeBlock": "2:00pm - 6:00pm"
+      },
+      {
         "name": "Closing Ceremony",
         "host": "DA Hack Team",
-        "timeBlock": "TBA"
+        "timeBlock": "6:30pm - 7:30pm"
       }
     ]
   }

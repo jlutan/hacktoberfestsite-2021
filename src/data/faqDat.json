@@ -5,7 +5,7 @@
   },
   {
     "title": "What is a pull request?",
-    "answer": "Pull requests are proposed code changes you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final."
+    "answer": "Pull requests are proposed code changes that you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final."
   },
   {
     "title": "Can students from other colleges attend?",
@@ -13,7 +13,7 @@
   },
   {
     "title": "What level of experience is required?",
-    "answer": "DA Hack is open to students of all levels of experience. Whether you are taking your introductory CS class, or have years of programming experience, we welcome you!"
+    "answer": "DA Hack is open to students of all levels of experience. Whether you are taking your first introductory CS class, or have years of programming experience, we welcome you!"
   },
   {
     "title": "Do I have to be a Computer Science Major?",
@@ -21,15 +21,15 @@
   },
   {
     "title": "When will DA Hack be taking place?",
-    "answer": "DA Hack will be taking place over the weekend of October 23-24. On Saturday morning, we will have a welcome session in the morning to mark the beginning of DA Hack. We will have various workshops, presentations, and more, until Sunday evening!"
+    "answer": "DA Hack will be taking place over the weekend of October 23-24. On Saturday morning, we will kick off with a welcome session in the morning to mark the official beginning of DA Hack. We will have various workshops, presentations, and more, until Sunday evening!"
   },
   {
     "title": "Where will DA Hack be taking place?",
-    "answer": "Unfortunatley, we find ourselves in the middle of a pandemic. As such, DA Hack will be completely online this year!"
+    "answer": "Unfortunately, we still find ourselves in the middle of a pandemic. As such, DA Hack will be completely online this year."
   },
   {
     "title": "What platforms will DA Hack be using?",
-    "answer": "We will be hosting all presentations, and live events through Zoom. In terms of contributing, the far majority of that will be done through GitHub!"
+    "answer": "We will be hosting all presentations and live events through Zoom. In terms of contributing, the vast majority of that will be done through GitHub!"
   },
   {
     "title": "What are the judging criteria for contributions?",
@@ -37,6 +37,6 @@
   },
   {
     "title": "What is the coding competition about?",
-    "answer": "The coding competition is a problem-solving race hosted by the Competitive Programming Club. An initial screening round will take place where you will need to submit a certain number of successful solutions. If you pass this round, then you will qualify to compete in the competitive round, with more difficult problems and a shorter time limit, for prizes. For more information, check the DA Hack Discord server."
+    "answer": "The coding competition is a coding problem race hosted by the Competitive Programming Club. An initial screening round will take place where you will need to submit a certain number of successful solutions. If you pass this round, then you will qualify to compete in the competitive round, with more difficult problems and a shorter time limit, for prizes. For more information, refer to the \"Code Race\" section and the DA Hack Discord server."
   }
 ]
