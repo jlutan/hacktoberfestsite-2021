@@ -1,21 +1,21 @@
 [
   {
-    "name": "Azine Davoudzadeh",
-    "description": "Founder of XR EDU, an organization that researches virtual, augmented, and mixed reality solutions for classrooms. Educator, speaker, and thought leader in the XR Education space.",
-    "imgPath": "azine_davoudzadeh.jpg",
-    "profileLink": "https://www.linkedin.com/in/azined/"
-  },
-  {
-    "name": "Tal Globus",
-    "description": "A passionate software engineer with expertise in the field of Machine Learning. Senior software engineer at a recently acquired reverse logistics startup.",
-    "imgPath": "tal.jpg",
-    "profileLink": "https://www.linkedin.com/in/talglobus/"
-  },
-  {
     "name": "Annam Quraishi",
     "description": "Over 4 years of experience working with startups and in the biotech industry. Her passion is making lasting impacts in the Medtech field through socially-driven businesses.",
     "imgPath": "annam.jpg",
     "profileLink": "https://www.linkedin.com/in/annamq/"
+  },
+  {
+    "name": "Areman Hashemi",
+    "description": "De Anza Alumni transferred to UCSC, where he recently graduated with highest honors with a B.S. in Computer Science. Areman currently works at Veeva Systems where he is an Associate Software Engineer. He enjoys practicing leet code and hanging out with his wife and dog at the park.",
+    "imgPath": "areman_hashemi.jpg",
+    "profileLink": "https://www.linkedin.com/in/areman-hashemi/"
+  },
+  {
+    "name": "Azine Davoudzadeh",
+    "description": "Founder of XR EDU, an organization that researches virtual, augmented, and mixed reality solutions for classrooms. Educator, speaker, and thought leader in the XR Education space.",
+    "imgPath": "azine_davoudzadeh.jpg",
+    "profileLink": "https://www.linkedin.com/in/azined/"
   },
   {
     "name": "Dan Turchin",
@@ -24,21 +24,27 @@
     "profileLink": "https://www.linkedin.com/in/dturchin"
   },
   {
-    "name": "Indira Bhatt",
-    "description": "Indira is an open source compliance consultant. Her experience is in open source licensing, processes, tooling and tech M&A’s. Indira is also a community representative for the Linux Foundations OpenChain Project.",
-    "imgPath": "indira_bhatt.jpg",
-    "profileLink": "https://www.linkedin.com/in/indirabhatt"
-  },
-  {
     "name": "Hema Mutyala",
     "description": "Hema is a master's student in Software Engineering with specialization in Cloud Computing and virtualization at San Jose State University. She is passionate about solving high impact problems using data and has a strong background in Software Development, Virtualization, and Cloud Computing.",
     "imgPath": "hema_mutyala.jpg",
     "profileLink": "https://www.linkedin.com/in/hema-prasanthi/"
   },
   {
-    "name": "Areman Hashemi",
-    "description": "De Anza Alumni transferred to UCSC, where he recently graduated with highest honors with a B.S. in Computer Science. Areman currently works at Veeva Systems where he is an Associate Software Engineer. He enjoys practicing leet code and hanging out with his wife and dog at the park.",
-    "imgPath": "areman_hashemi.jpg",
-    "profileLink": "https://www.linkedin.com/in/areman-hashemi/"
+    "name": "Indira Bhatt",
+    "description": "Indira is an open source compliance consultant. Her experience is in open source licensing, processes, tooling and tech M&A’s. Indira is also a community representative for the Linux Foundations OpenChain Project.",
+    "imgPath": "indira_bhatt.jpg",
+    "profileLink": "https://www.linkedin.com/in/indirabhatt"
+  },
+  {
+    "name": "Mike Doroshenko",
+    "description": "Mike Doroshenko is a software engineer at SAP. He is the founder of the AI startup Visioner and a Google Developers Student Club Community Lead. He is having his final interview for a Facebook internship soon and would like to share his advice.",
+    "imgPath": "mike_doroshenko.jpg",
+    "profileLink": "https://www.linkedin.com/in/mike-doroshenko/"
+  },
+  {
+    "name": "Tal Globus",
+    "description": "A passionate software engineer with expertise in the field of Machine Learning. Senior software engineer at a recently acquired reverse logistics startup.",
+    "imgPath": "tal.jpg",
+    "profileLink": "https://www.linkedin.com/in/talglobus/"
   }
 ]
