@@ -42,6 +42,12 @@
     "profileLink": "https://www.linkedin.com/in/mike-doroshenko/"
   },
   {
+    "name": "Rodrigo Mendoza Smith",
+    "description": "Rodrigo is the founder and CEO of Quine, a stealth mode startup based in London with the aim of helping developers maximise their GDP.",
+    "imgPath": "rodrigo_smith.jpg",
+    "profileLink": "https://www.linkedin.com/in/r0dms/?originalSubdomain=uk"
+  },
+  {
     "name": "Tal Globus",
     "description": "A passionate software engineer with expertise in the field of Machine Learning. Senior software engineer at a recently acquired reverse logistics startup.",
     "imgPath": "tal.jpg",

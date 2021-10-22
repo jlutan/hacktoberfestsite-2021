@@ -15,7 +15,7 @@
       {
         "name": "Code Race (Qualifying Round)",
         "host": "Competitive Programming Club",
-        "timeBlock": "8:00am Friday - 12:00pm Saturday"
+        "timeBlock": "6:00am Friday - 12:00pm Saturday"
       }
     ]
   },
@@ -23,8 +23,8 @@
     "day": "Saturday 10/23",
     "events": [
       {
-        "name": "Welcome Session",
-        "host": "DA Hack Team",
+        "name": "Welcome Session (and Making your first contribution to open source with Quine)",
+        "host": "DA Hack Team & Rodrigo Mendoza Smith",
         "timeBlock": "9:00am - 10:00am"
       },
       {
